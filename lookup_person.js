@@ -1,4 +1,4 @@
-const pg = require('pg');
+const pg = require("pg");
 const settings = require("./settings");
 const name = [process.argv[2]];
 const client = new pg.Client(settings);
