@@ -1,0 +1,23 @@
+{
+  "name": "js_connect",
+  "version": "1.0.0",
+  "description": "node-postgres practice",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^7.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morganyyu/Node-Postgres.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Morganyyu/Node-Postgres/issues"
+  },
+  "homepage": "https://github.com/Morganyyu/Node-Postgres#readme"
+}
